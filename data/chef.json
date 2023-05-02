@@ -1,11 +1,12 @@
 [
   {
     "id": 1,
-    "chef_picture" : "https://i.ibb.co/4V66X7n/man1.jpg",
+    "chef_picture": "https://i.ibb.co/4V66X7n/man1.jpg",
     "chef_name": "Rahman Ahmed",
-    "designation" : "Head Chef",
+    "designation": "Head Chef",
     "years_of_experience": 10,
     "number_of_recipes": 50,
+    "career_bio": "Rahman Ahmed is a renowned chef with over 10 years of experience in the culinary industry. She has worked in some of the finest restaurants in Europe and the United States, honing her skills in French, Italian, and Spanish cuisine. Her passion for using fresh, locally-sourced ingredients is evident in her delicious and innovative dishes. Chef Maria's dedication to her craft has earned her numerous awards and accolades throughout her career.",
     "likes": 100,
     "recipes": [
       {
@@ -32,9 +33,10 @@
     "id": 2,
     "chef_picture": "https://i.ibb.co/TkSthmG/lady1.jpg",
     "chef_name": "Fatima Khan",
-    "designation" : "Assistant Chef",
+    "designation": "Assistant Chef",
     "years_of_experience": 8,
     "number_of_recipes": 40,
+    "career_bio": "Chef Fatima Khan is a master of Indian cuisine, known for his ability to blend traditional flavors with modern techniques. He has worked in some of the most prestigious hotels in India and the Middle East, and has a loyal following of food lovers who appreciate his creative approach to cooking. Chef Rajesh's commitment to using the freshest spices and ingredients sets him apart in the competitive world of Indian cuisine.",
     "likes": 75,
     "recipes": [
       {
@@ -61,9 +63,10 @@
     "id": 3,
     "chef_picture": "https://i.ibb.co/rFvvq6X/man2.jpg",
     "chef_name": "Tariq Islam",
-    "designation" : "Assistant Head Chef",
+    "designation": "Assistant Head Chef",
     "years_of_experience": 12,
     "number_of_recipes": 60,
+    "career_bio": "Chef Tariq Islam  is a rising star in the culinary world, with a passion for creating delicious, healthy meals that are both beautiful and flavorful. She trained in some of the top restaurants in California, and has since become known for her farm-to-table approach to cooking. Chef Jamie's focus on fresh, seasonal ingredients has earned her a loyal following of health-conscious foodies.",
     "likes": 120,
     "recipes": [
       {
@@ -86,13 +89,14 @@
       }
     ]
   },
-   {
+  {
     "id": 4,
     "chef_picture": "https://i.ibb.co/K66d1qF/lady2.jpg",
     "chef_name": "Farzana Sutana",
-    "designation" : "Executive Chef",
+    "designation": "Executive Chef",
     "years_of_experience": 5,
     "number_of_recipes": 10,
+    "career_bio": " Chef Farzana Sutana is a Vietnamese-American chef who blends the flavors of his heritage with modern techniques to create stunning dishes that are both familiar and unexpected. He has worked in some of the most innovative restaurants in the United States, and his culinary creations have earned him national recognition. Chef Michael's dedication to using traditional Vietnamese ingredients and techniques sets him apart from other chefs.",
     "likes": 110,
     "recipes": [
       {
@@ -119,9 +123,10 @@
     "id": 5,
     "chef_picture": "https://i.ibb.co/DGykgBj/man3.jpg",
     "chef_name": "Zahid Hasan",
-    "designation" : "Chef de Cuisine",
+    "designation": "Chef de Cuisine",
     "years_of_experience": 6,
     "number_of_recipes": 11,
+    "career_bio": "Chef Zahid Hasan is an Italian chef with a passion for creating simple, delicious dishes that showcase the flavors of her home country. She has worked in some of the finest Italian restaurants in Europe, and her traditional approach to cooking has earned her a loyal following of food lovers. Chef Anna Maria's commitment to using the freshest ingredients and time-honored techniques is evident in every dish she creates.",
     "likes": 104,
     "recipes": [
       {
@@ -148,9 +153,10 @@
     "id": 6,
     "chef_picture": "https://i.ibb.co/cYnDhXn/lady3.jpg",
     "chef_name": "Sezuti mukta",
-    "designation" : "Executive Chef",
+    "designation": "Executive Chef",
     "years_of_experience": 8,
     "number_of_recipes": 9,
+    "career_bio": "Chef Sezuti mukta is a master of Mexican cuisine, known for his bold flavors and creative approach to cooking. He has worked in some of the most popular turkis restaurants in the United States, and his dishes are beloved by foodies and critics alike. Chef Miguel's use of fresh, locally-sourced ingredients and his innovative flavor combinations make him a standout in the competitive world of turkis cuisine.",
     "likes": 112,
     "recipes": [
       {
