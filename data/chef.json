@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "chef_picture" : "https://i.ibb.co/4V66X7n/man1.jpg",
+    "chef_name": "Rahman Ahmed",
+    "years_of_experience": 10,
+    "number_of_recipes": 50,
+    "likes": 100,
+    "recipes": [
+      {
+        "name": "Biryani",
+        "description": "A flavorful rice dish with meat or vegetables",
+        "image_url": "https://i.ibb.co/7VW4qfg/biryani.jpg",
+        "price": 12.99
+      },
+      {
+        "name": "Chicken Tikka Masala",
+        "description": "Grilled chicken in a spiced tomato cream sauce",
+        "image_url": "https://i.ibb.co/M8jb51Z/chicken-tikka.jpg",
+        "price": 14.99
+      },
+      {
+        "name": "Samosas",
+        "description": "Fried or baked pastry with savory filling",
+        "image_url": "https://i.ibb.co/MnLGHSQ/samosas.jpg",
+        "price": 5.99
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://i.ibb.co/TkSthmG/lady1.jpg",
+    "chef_name": "Fatima Khan",
+    "years_of_experience": 8,
+    "number_of_recipes": 40,
+    "likes": 75,
+    "recipes": [
+      {
+        "name": "Korma",
+        "description": "A creamy and mildly spiced curry with meat or vegetables",
+        "image_url": "https://i.ibb.co/4Mzp1sV/chicken-korma.jpg",
+        "price": 11.99
+      },
+      {
+        "name": "Chapati",
+        "description": "A thin, unleavened flatbread made from wheat flour",
+        "image_url": "https://i.ibb.co/qxRF1Cv/capati.jpg",
+        "price": 2.99
+      },
+      {
+        "name": "Saag Paneer",
+        "description": "Spinach with cubes of Indian cheese",
+        "image_url": "https://i.ibb.co/YPjQ84W/Saag-Paneer.jpg",
+        "price": 13.99
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://i.ibb.co/rFvvq6X/man2.jpg",
+    "chef_name": "Tariq Islam",
+    "years_of_experience": 12,
+    "number_of_recipes": 60,
+    "likes": 120,
+    "recipes": [
+      {
+        "name": "Naan",
+        "description": "A leavened, oven-baked flatbread",
+        "image_url": "https://i.ibb.co/b3fDFfr/naan.jpg",
+        "price": 3.99
+      },
+      {
+        "name": "Aloo Gobi",
+        "description": "Curried cauliflower and potatoes",
+        "image_url": "https://i.ibb.co/2dbHmvV/Aloo-Gobi.jpg",
+        "price": 10.99
+      },
+      {
+        "name": "Raita",
+        "description": "A cool yogurt-based condiment with cucumbers and spices",
+        "image_url": "https://i.ibb.co/WK7gTQz/raita.jpg",
+        "price": 4.99
+      }
+    ]
+  },
+   {
+    "id": 4,
+    "chef_picture": "https://i.ibb.co/K66d1qF/lady2.jpg",
+    "chef_name": "Farzana Sutana",
+    "years_of_experience": 5,
+    "number_of_recipes": 10,
+    "likes": 110,
+    "recipes": [
+      {
+        "name": "potato cake",
+        "description": "A leavened, oven-baked flatbread",
+        "image_url": "https://i.ibb.co/3NYtmBD/potato.jpg",
+        "price": 3.99
+      },
+      {
+        "name": "chocolate cake",
+        "description": "Curried cauliflower and potatoes",
+        "image_url": "https://i.ibb.co/1v7DN5M/chocolatecake.jpg",
+        "price": 10.99
+      },
+      {
+        "name": "Bhapa pitha cake",
+        "description": "A cool yogurt-based condiment with rice and coconuts",
+        "image_url": "https://i.ibb.co/GPvbGs9/Bhapa-pitha.jpg",
+        "price": 4.99
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://i.ibb.co/DGykgBj/man3.jpg",
+    "chef_name": "Zahid Hasan",
+    "years_of_experience": 6,
+    "number_of_recipes": 11,
+    "likes": 104,
+    "recipes": [
+      {
+        "name": "fish curry",
+        "description": "A leavened, oven-baked flatbread",
+        "image_url": "https://i.ibb.co/ctFpBJR/fish-curry.jpg",
+        "price": 3.99
+      },
+      {
+        "name": "vegetable curry",
+        "description": "Curried cauliflower and potatoes",
+        "image_url": "https://i.ibb.co/DwBxvZQ/vegetable-curry.jpg",
+        "price": 10.99
+      },
+      {
+        "name": "Dal curry",
+        "description": "A cool yogurt-based condiment with cucumbers and spices",
+        "image_url": "https://i.ibb.co/mNN416m/dal-curry.jpg",
+        "price": 4.99
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://i.ibb.co/cYnDhXn/lady3.jpg",
+    "chef_name": "Sezuti mukta",
+    "years_of_experience": 8,
+    "number_of_recipes": 9,
+    "likes": 112,
+    "recipes": [
+      {
+        "name": "Dal Borta",
+        "description": "A leavened, oven-baked flatbread",
+        "image_url": "https://i.ibb.co/RB4wK3W/dal-borta.jpg",
+        "price": 3.99
+      },
+      {
+        "name": "Sutki Borta",
+        "description": "Curried cauliflower and potatoes",
+        "image_url": "https://i.ibb.co/86VPn3Z/sutki-borta.jpg",
+        "price": 10.99
+      },
+      {
+        "name": "vegetable Borta",
+        "description": "A cool yogurt-based condiment with cucumbers and spices",
+        "image_url": "https://i.ibb.co/5x5pwt7/vege-borta.jpg",
+        "price": 4.99
+      }
+    ]
+  }
+]
