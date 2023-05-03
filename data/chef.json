@@ -7,7 +7,7 @@
     "years_of_experience": 10,
     "number_of_recipes": 50,
     "career_bio": "Rahman Ahmed is a renowned chef with over 10 years of experience in the culinary industry. She has worked in some of the finest restaurants in Europe and the United States, honing her skills in French, Italian, and Spanish cuisine. Her passion for using fresh, locally-sourced ingredients is evident in her delicious and innovative dishes. Chef Maria's dedication to her craft has earned her numerous awards and accolades throughout her career.",
-    "likes": 100,
+    "likes": 200,
     "recipes": [
       {
         "name": "Biryani",
@@ -37,7 +37,7 @@
     "years_of_experience": 8,
     "number_of_recipes": 40,
     "career_bio": "Chef Fatima Khan is a master of Indian cuisine, known for his ability to blend traditional flavors with modern techniques. He has worked in some of the most prestigious hotels in India and the Middle East, and has a loyal following of food lovers who appreciate his creative approach to cooking. Chef Rajesh's commitment to using the freshest spices and ingredients sets him apart in the competitive world of Indian cuisine.",
-    "likes": 75,
+    "likes": 95,
     "recipes": [
       {
         "name": "Korma",
@@ -67,7 +67,7 @@
     "years_of_experience": 12,
     "number_of_recipes": 60,
     "career_bio": "Chef Tariq Islam  is a rising star in the culinary world, with a passion for creating delicious, healthy meals that are both beautiful and flavorful. She trained in some of the top restaurants in California, and has since become known for her farm-to-table approach to cooking. Chef Jamie's focus on fresh, seasonal ingredients has earned her a loyal following of health-conscious foodies.",
-    "likes": 120,
+    "likes": 160,
     "recipes": [
       {
         "name": "Naan",
